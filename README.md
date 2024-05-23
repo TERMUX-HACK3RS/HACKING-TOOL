@@ -11,7 +11,8 @@ Made with CHANDRAKANT RAY
 
 #### Installation and Using HACKING-TOOL
 ```bash
-apt install python git
+apt update && apt upgrade
+pkg install python 
 git clone https://github.com/TERMUX-HACK3RS/HACKING-TOOL.git
 cd HACKING-TOOL
 python HACKING-TOOL.py
